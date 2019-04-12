@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+
+[user]
+	name = Pratik
+	email = pratik.patel@newpage.io
+[remote "origin"]
+	url = git@github.com:pratik-newpage/youtrients-testngautomation.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
